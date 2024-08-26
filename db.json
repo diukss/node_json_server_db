@@ -1,0 +1,62 @@
+{
+  "Profesores": [
+    {
+      "nombre": "Sergio",
+      "apellido": "Suarez",
+      "materias": [
+        {
+          "nombre": "literatura"
+        },
+        {
+          "nombre": "ingles"
+        },
+        {
+          "nombre": "Logica"
+        }
+      ],
+      "id": "9fce"
+    },
+    {
+      "id": "ba66",
+      "nombre": "Lucas",
+      "apellido": "Paqueta",
+      "materias": [
+        {
+          "nombre": "biologia"
+        },
+        {
+          "nombre": "fisica"
+        }
+      ]
+    }
+  ],
+  "Alumnos": [
+    {
+      "nombre": "Lucas",
+      "apellido": "Goncalves",
+      "id": "bef1"
+    },
+    {
+      "id": "b22e",
+      "nombre": "Luciano",
+      "apellido": "Castro"
+    }
+  ],
+  "Curso": [
+    {
+      "nombre": "NodeJS",
+      "dificultad": 8,
+      "duracion": 2
+    },
+    {
+      "nombre": "JS",
+      "dificultad": 3,
+      "duracion": 4
+    },
+    {
+      "nombre": "Docker",
+      "dificultad": 9,
+      "duracion": 1
+    }
+  ]
+}
